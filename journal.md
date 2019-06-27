@@ -1,7 +1,7 @@
 ## Journal
 
 ## Purpose
-**To** compile information as it is given to me throughout the course of this class.
+**To compile information** as it is given to me throughout the course of this class, both for reinstruction or recap as needed for assignments, as well as to reference in my future long after this class.
 ### git
 *git* is a DVCS, which stands for Distributed Version Control Systems. What that basically means is that DVCS is a program or set of tools designed for version control, in a distributed manner. *git* is one such version, or tool, which is used to *snapshot* previous versions of edits, before the file is made "live."
 
